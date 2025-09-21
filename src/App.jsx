@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function MyButton() {
   return (
-    <button>
+    <button className="avatar">
       I'm a button
     </button>
   );
